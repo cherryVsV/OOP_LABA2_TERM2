@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">OOP_Laba__2</string>
+    <string name="info_laba">Выполнила студентка 4 курса группы ИВТ-1\nТрипольская Валерия Сергеевна</string>
+    <string name="fio_student_laba">Трипольская Валерия Сергеевна</string>
+    <string name="main_button_register_confirmation">Регистрация (Подтверждение)</string>
+    <string name="main_button_filters">Карта, сортировки, фильтры (Фильтры)</string>
+    <string name="main_button_share_collection">Подборки (поделиться подборкой)</string>
+
+    <string name="register_time">00:59</string>
+    <string name="register_text">Мы отправили код на ваш телефон, введите его в поле ниже</string>
+    <string name="register_button_text">Отправить новый код</string>
+    <string name="register_back_text">Вернуться</string>
+
+    <string name="timer_update">4-значный код обновлен и будет действителен минуту</string>
+    <string name="timer_access">4-значный код действителен минуту</string>
+    <string name="timer_failed">4-значный код больше не действителен</string>
+
+    <string name="title_filters">Фильтры</string>
+    <string name="filters_arrow_back">Назад</string>
+    <string name="filters_arrow_foreward">Вперёд</string>
+
+    <string name="title_region">Район</string>
+    <string name="region_arbat">Арбат</string>
+    <string name="region_basmanniy">Басманный</string>
+    <string name="region_meshanskiy">Мещанский</string>
+    <string name="region_taganskiy">Таганский</string>
+    <string name="region_moskowskiy">Московский</string>
+
+    <string name="title_microdistrict">Микрорайон</string>
+    <string name="microdistrict_kozhuhovo">Кожухово</string>
+    <string name="microdistrict_konezavod">Конезавод</string>
+    <string name="microdistrict_kuryanovo">Курьяново</string>
+    <string name="microdistrict_leninskiy">Ленинский</string>
+    <string name="microdistrict_moskowskiy">Московский</string>
+
+    <string name="title_type_of_property">Тип недвижимости</string>
+    <string name="type_of_property_new_buildings">Новостройки</string>
+    <string name="type_of_property_cottage_villages">Коттеджные посёлки</string>
+    <string name="type_of_property_flats">Квартиры</string>
+    <string name="type_of_property_summer_villages">Дачные посёлки</string>
+
+    <string name="title_price">Цена</string>
+    <string name="title_square">Площадь</string>
+    <string name="title_design">Оформление</string>
+    <string name="title_deadline">Срок сдачи</string>
+    <string name="title_apartment_decoration">Отделка квартир</string>
+    <string name="title_payment_options">Варианты оплаты</string>
+
+    <string name="title_btn_clear">Очистить</string>
+    <string name="title_btn_apply">Применить</string>
+
+    <string name="hint_search_news">Поиск по новостям</string>
+
+    <string name="main_nav_bottom_menu">Главная</string>
+    <string name="news_nav_bottom_menu">Новости</string>
+    <string name="collections_nav_bottom_menu">Подборки</string>
+    <string name="favourite_nav_bottom_menu">Избранное</string>
+    <string name="profile_nav_bottom_menu">Профиль</string>
+
+    <string name="string1">Сдаются новые квартиры</string>
+    <string name="string1_1">ЖК Лондон</string>
+    <string name="string2">Паркинг доступен для всех</string>
+    <string name="string2_1">ЖК Скандинавия</string>
+</resources>
